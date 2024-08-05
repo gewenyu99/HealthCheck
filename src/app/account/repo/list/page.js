@@ -1,3 +1,4 @@
+import { redirect } from "next/navigation";
 import { getServerSession } from "next-auth/next";
 import { formatDistance } from "date-fns";
 
@@ -50,7 +51,7 @@ export default async function Page() {
                 new Date(),
                 {
                   addSuffix: true,
-                }
+                },
               )} with ${repo.checks[0].red} error(s), ${
                 repo.checks[0].amber
               } warning(s), ${repo.checks[0].green} success(es)`

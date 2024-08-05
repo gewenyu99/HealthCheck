@@ -1,45 +1,45 @@
-## [0.16.3](https://github.com/EddieHubCommunity/HealthCheck/compare/v0.16.2...v0.16.3) (2024-07-27)
-
-
-### Bug Fixes
-
-* included security.md ([#67](https://github.com/EddieHubCommunity/HealthCheck/issues/67)) ([ab64f01](https://github.com/EddieHubCommunity/HealthCheck/commit/ab64f01d3e0eabd4cc3b811c03913265a52fe327))
-
-
-
-## [0.16.2](https://github.com/EddieHubCommunity/HealthCheck/compare/v0.16.1...v0.16.2) (2024-07-27)
-
-
-### Bug Fixes
-
-* my repo list order desc ([81c74ec](https://github.com/EddieHubCommunity/HealthCheck/commit/81c74eccdc008ecb8c1b3924a6b043094044e1f9))
-
-
-
-## [0.16.1](https://github.com/EddieHubCommunity/HealthCheck/compare/v0.16.0...v0.16.1) (2024-07-27)
-
-
-### Bug Fixes
-
-* grouping of gh api calls ([2049f99](https://github.com/EddieHubCommunity/HealthCheck/commit/2049f9907e4520c47a3d12878bba40ffd1236ae8))
-
-
-
-# [0.16.0](https://github.com/EddieHubCommunity/HealthCheck/compare/v0.15.0...v0.16.0) (2024-07-26)
+# [0.20.0](https://github.com/EddieHubCommunity/HealthCheck/compare/v0.19.1...v0.20.0) (2024-08-04)
 
 
 ### Features
 
-* check for recent release ([ef88abe](https://github.com/EddieHubCommunity/HealthCheck/commit/ef88abe8de0913a4d3d672ed5c47e9d25a31db79))
+* mock auth with playwright ([#76](https://github.com/EddieHubCommunity/HealthCheck/issues/76)) ([f7b38bc](https://github.com/EddieHubCommunity/HealthCheck/commit/f7b38bca1d7ef2c3541bceb5e864299ce93b7524))
 
 
 
-# [0.15.0](https://github.com/EddieHubCommunity/HealthCheck/compare/v0.14.0...v0.15.0) (2024-07-25)
+## [0.19.1](https://github.com/EddieHubCommunity/HealthCheck/compare/v0.19.0...v0.19.1) (2024-08-03)
+
+
+### Bug Fixes
+
+* prettier ignore file for generated changelog ([327210d](https://github.com/EddieHubCommunity/HealthCheck/commit/327210d849071e730fff562043e840a19cc90b60))
+
+
+
+# [0.19.0](https://github.com/EddieHubCommunity/HealthCheck/compare/v0.18.6...v0.19.0) (2024-07-31)
 
 
 ### Features
 
-* public list ([#58](https://github.com/EddieHubCommunity/HealthCheck/issues/58)) ([ea3b645](https://github.com/EddieHubCommunity/HealthCheck/commit/ea3b645ce863dd9022396a3692bb046893e467ae))
+* prettier integration ([#78](https://github.com/EddieHubCommunity/HealthCheck/issues/78)) ([2e89c17](https://github.com/EddieHubCommunity/HealthCheck/commit/2e89c1767330ab6d5162cab1cd20746c8625bc79))
+
+
+
+## [0.18.6](https://github.com/EddieHubCommunity/HealthCheck/compare/v0.18.5...v0.18.6) (2024-07-30)
+
+
+### Bug Fixes
+
+* db envar for migration action ([e904944](https://github.com/EddieHubCommunity/HealthCheck/commit/e904944e725da137e73fa6ec9408a1354338bbef))
+
+
+
+## [0.18.5](https://github.com/EddieHubCommunity/HealthCheck/compare/v0.18.4...v0.18.5) (2024-07-29)
+
+
+### Bug Fixes
+
+* migrate command ([68a6573](https://github.com/EddieHubCommunity/HealthCheck/commit/68a6573889823dbd0a3d84593e01dd229ca40de3))
 
 
 
